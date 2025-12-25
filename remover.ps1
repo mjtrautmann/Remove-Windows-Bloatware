@@ -5,8 +5,6 @@ Get-AppxPackage Microsoft.WindowsNotepad | Remove-AppxPackage
 Get-AppxPackage Microsoft.XboxIdentityProvider | Remove-AppxPackage
 Get-AppxPackage Microsoft.BingSearch | Remove-AppxPackage
 Get-AppxPackage Microsoft.XboxSpeechToTextOverlay | Remove-AppxPackage
-Get-AppxPackage Microsoft.XboxGameCallableUI | Remove-AppxPackage
 Get-AppxPackage Microsoft.PeopleExperienceHost | Remove-AppxPackage
-Get-AppxPackage Microsoft.Windows.ParentalControls | Remove-AppxPackage
 Get-AppxPackage Microsoft.XboxSpeechToTextOverlay | Remove-AppxPackage
 Get-AppxPackage Microsoft.Client.CoreAI | Remove-AppxPackage
