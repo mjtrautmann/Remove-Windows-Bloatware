@@ -8,3 +8,6 @@ Get-AppxPackage Microsoft.XboxSpeechToTextOverlay | Remove-AppxPackage
 Get-AppxPackage Microsoft.PeopleExperienceHost | Remove-AppxPackage
 Get-AppxPackage Microsoft.XboxSpeechToTextOverlay | Remove-AppxPackage
 Get-AppxPackage Microsoft.Client.CoreAI | Remove-AppxPackage
+Get-AppxPackage Microsoft.YourPhone | Remove-AppxPackage
+Get-AppxPackage Microsoft.WindowsSoundRecorder | Remove-AppxPackage
+Get-AppxPackage Microsoft.ContentDeliveryManager | Remove-AppxPackage
